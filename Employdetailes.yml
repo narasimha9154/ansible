@@ -1,0 +1,18 @@
+---
+# Key: values
+
+Employdetailes: 
+- name: akhil
+  employid: 001
+  phno: 8989898988
+  address: kphp
+
+- name: raju
+  employid: 002
+  phno: 797979797
+  address: kphb
+  
+- name: pavan
+  employid: 003
+  phno: 797979797
+  address: kphb
