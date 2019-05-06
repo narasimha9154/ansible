@@ -6,3 +6,8 @@
     apt:
       name: git
       state: present
+  - name: install tree on ubuntu
+    apt:
+      name: tree
+      state: present
+          
